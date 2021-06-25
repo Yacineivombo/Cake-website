@@ -1,0 +1,14 @@
+.sd-item-cover {
+	height: 320px;
+	width: 320px;
+	border-radius: 20px;
+}
+
+.sd-plant-item {
+	margin: 10px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: capitalize;
+}
